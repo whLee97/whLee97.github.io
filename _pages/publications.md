@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Publications"
-permalink: /publications_manual/
+permalink: /publications-manual/
 author_profile: true
 ---
 
