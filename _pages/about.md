@@ -17,8 +17,8 @@ Publications
 ======
 - **Li, W.**, Zheng, Z.\*, Dong, R., & Zhou, X.\* (2025). [Robust parallel pursuit for large-scale association network learning](https://pubsonline.informs.org/doi/10.1287/ijoc.2022.0181). *INFORMS Journal on Computing*.
 - Liu, Y., **Li, W.\***, & Zhang, X. (2025). [A marginalized zero-truncated Poisson regression model and its model averaging prediction](https://link.springer.com/article/10.1007/s40304-022-00312-8). *Communications in Mathematics and Statistics*.
-- **Li, W.**, & Zhang, X.\* Factor-adjusted model averaging.  *Journal of the American Statistical Association*, 2025. (Forthcoming). 
-- **Li, W.** & Zhang, X.\*. (2025+). Model averaging with factor instrumental variables. *Journal of Systems Science and Complexity*. (Forthcoming). 
+- **Li, W.**, & Zhang, X.\* (2025+). Factor-adjusted model averaging.  *Journal of the American Statistical Association*. (Forthcoming). 
+- **Li, W.** & Zhang, X.\* (2025+). Model averaging with factor instrumental variables. *Journal of Systems Science and Complexity*. (Forthcoming). 
 
 Working Papers
 ======
